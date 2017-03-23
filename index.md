@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## About Me
 
 You can use the [editor on GitHub](https://github.com/runlin/runlin.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+My name is Runsheng Lin, and I am a senior student majoring in Statistics and Economics at University of California, Davis. I am extremely interested in quantitative finance, and am currently applying for graduate school with a concentration in financial engineering. [Add one past project here and knowledge/experience gained]. I have two years’ experience studying computer science, and therefore I am proficient with R, C++, Java, and Excel. In the future, I am interested in pursuing a quantitative analyst position in the financial industry.
 
 ### Markdown
 
