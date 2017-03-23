@@ -10,33 +10,9 @@ I took this class from UCD. This website is also used to fulfil part of the requ
 
 ### Python Final Project
 
-We are required to do a final project to fulfil the last requirement from the class. You can reach the analysis report through this [site[(https://github.com/runlin/python_final_project/blob/master/runsheng_final_project.ipynb).
+We are required to do a final project to fulfil the last requirement from the class. You can reach the analysis report through this [site[(https://runlin.github.io/runsheng_final_project.html).
 
 
-```markdown
-Syntax highlighted code block
+###### Jekyll Themes ######
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/runlin/runlin.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This Pages's layout and styles is from the Jekyll theme.
