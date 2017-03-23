@@ -10,7 +10,7 @@ I took this class from UCD. This website is also used to fulfil part of the requ
 
 ### Python Final Project
 
-We are required to do a final project to fulfil the last requirement from the class. You can reach the analysis report through this [site[(https://runlin.github.io/runsheng_final_project.html).
+We are required to do a final project to fulfil the last requirement from the class. You can reach the analysis report through this [site](https://runlin.github.io/runsheng_final_project.html).
 
 
 ###### Jekyll Themes ######
